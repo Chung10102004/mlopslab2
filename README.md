@@ -1,3 +1,11 @@
+# Demo
+## Demo Docker compose
+[![Watch the video](https://img.youtube.com/vi/MQs76C55yxY/0.jpg)](https://www.youtube.com/watch?v=MQs76C55yxY)
+## Demo Docker hub
+[![Watch the video](https://img.youtube.com/vi/5omD_OBICUA/0.jpg)](https://youtu.be/5omD_OBICUA)
+## Demo on server
+[![Watch the video](https://img.youtube.com/vi/YZUyILdbjpE/0.jpg)](https://youtu.be/YZUyILdbjpE )
+
 # Tải và chạy
 ## Bằng Docker compose 
 
